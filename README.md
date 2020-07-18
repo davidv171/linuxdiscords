@@ -19,12 +19,17 @@ https://discord.com/invite/RbvHtGa
 https://discord.gg/opensuse
 
 
-### Arch linux
+### Arch Linux
 
 #### Unofficial:
 
 https://discord.gg/3m6dbPR
 
+### Void Linux
+
+#### Unofficial
+
+https://discord.gg/6XUn5H3
 
 ## Linux related discords:
 
