@@ -96,3 +96,6 @@ https://discord.gg/qvGgnVx
 ### Vim
 https://discord.gg/qvh2RrV
 
+## Window managers
+### Awesome
+https://discord.com/invite/XYvn8R5
