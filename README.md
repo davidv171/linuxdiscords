@@ -94,9 +94,11 @@ https://discord.gg/uuwK9EV
 https://discord.gg/qvGgnVx
 
 ### VI-tality (Vim)
+#### Unofficial
 https://discord.gg/yFEUve3
 
 ### Vim
+#### Unofficial
 https://discord.gg/qvh2RrV
 
 
