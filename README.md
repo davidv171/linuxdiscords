@@ -97,10 +97,6 @@ https://discord.gg/qvGgnVx
 #### Unofficial
 https://discord.gg/yFEUve3
 
-### Vim
-#### Unofficial
-https://discord.gg/qvh2RrV
-
 
 ## Window managers
 ### Awesome
