@@ -1,5 +1,5 @@
 # linuxdiscords
-A dump of discord links for Linux oriented discords. Everything with a focus and bias towards Linux can be included. As long as it's SFW and respects Discord TOS.
+A dump of Discord invite for Linux oriented Discord servers. Everything with a focus towards Linux can be included, as long as it's SFW and respects Discord's ToS.
 
 ## Linux distributions:
 ### Arch Linux
